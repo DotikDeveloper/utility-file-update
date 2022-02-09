@@ -1,0 +1,12 @@
+{
+  "name": "utility-file-update",
+  "version": "1.0.0",
+  "description": "Utility to add string to multiple files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./start.ts"
+  },
+  "keywords": ["file", "update", "utility"],
+  "author": "Sergei Popov <dotikdeveloper@gmail.com>, <https://dotdev.site/>",
+  "license": "ISC"
+}
